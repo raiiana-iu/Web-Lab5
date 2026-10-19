@@ -1,0 +1,35 @@
+body{
+  background-color:#B3E5FC;
+}
+#root {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: #4faff4;
+}
+
+button {
+  padding: 8px 16px;
+  border: 1px solid rgb(20, 52, 230);
+  margin-bottom: 15px;
+  cursor: pointer;
+  
+}
+
+input {
+  display: block;
+  padding: 8px;
+  margin-bottom: 10px;
+}
+.card {
+  border: 1px solid rgb(20, 52, 230);
+  padding: 16px;
+  margin: 10px;
+  border-radius: 8px;
+  background-color: #33c0f8;
+}
+
